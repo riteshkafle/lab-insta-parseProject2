@@ -31,7 +31,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/3b1143846658420e8d7f62cd368deb93" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/3b1143846658420e8d7f62cd368deb93">
+      <p>Simulator - iPhone 16e - 2 February 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3b1143846658420e8d7f62cd368deb93">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b1143846658420e8d7f62cd368deb93-a794fb417e65425b-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 ## License
 
