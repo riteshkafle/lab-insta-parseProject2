@@ -1,4 +1,4 @@
-# Project 2 - *Instaparse*
+# Project 2 - *BeReal*
 
 Submitted by: **Ritesh Kafle**
 
