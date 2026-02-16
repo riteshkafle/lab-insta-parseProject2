@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 - [Done ] Users can pull to refresh their feed and see a loading indicator
 - [Done ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ Not] Users can see location and time of photo upload in the feed	
+- [Done] Users can see location and time of photo upload in the feed	
 - [ Done] User stays logged in when app is closed and open again	
 
 
@@ -32,11 +32,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/3b1143846658420e8d7f62cd368deb93">
-      <p>Simulator - iPhone 16e - 2 February 2026 - Watch Video</p>
+    <a href="https://www.loom.com/share/06f5cc1118794247ba0e831c3d756ad4">
+      <p>Project2 apprecord - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/3b1143846658420e8d7f62cd368deb93">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3b1143846658420e8d7f62cd368deb93-a794fb417e65425b-full-play.gif#t=0.1">
+    <a href="https://www.loom.com/share/06f5cc1118794247ba0e831c3d756ad4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/06f5cc1118794247ba0e831c3d756ad4-5cf57306bc15b69d-full-play.gif#t=0.1">
     </a>
   </div>
 
